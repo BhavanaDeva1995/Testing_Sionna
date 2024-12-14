@@ -1,0 +1,64 @@
+| **Frequency Band (GHz)** | **Location** | **Coordinates** | **Nominal Coordination Distance (KM)** | **Agency** |
+|---------------------------|--------------|-----------------|-----------------------------------------|------------|
+| **7.145 - 7.190**         | CA, Goldstone (DSS-15) | 352519N1165311W | 1000 | NASA |
+| **7.145 - 7.190**         | CA, Goldstone (DSS-25) | 352016N1165231W | 1000 | NASA |
+| **7.145 - 7.190**         | CA, Goldstone (DSS-26) | 352009N1165223W | 1000 | NASA |
+| **7.145 - 7.190**         | CA, Goldstone (Deep Space) | 352519N1165311W | 1123 | NASA |
+| **7.145 - 7.235**         | CA, Goldstone (DSS-24) | 352024N1165229W | 1000 | NASA |
+| **7.145 - 7.235**         | CA, Goldstone (DSS-25) | 352015N1165231W | 1000 | NASA |
+| **7.145 - 7.235**         | CA, Goldstone (DSS-26) | 352008N1165223W | 1000 | NASA |
+| **7.190 - 7.235**         | AK, Fairbanks | 645131N1475127W | 528 | NASA |
+| **7.190 - 7.235**         | CA, Goldstone (DSS-13) | 351450N1164738W | 875 | NASA |
+| **7.190 - 7.235**         | CA, Goldstone (DSS-23) | 352024N1165220W | 1025 | NASA |
+| **7.190 - 7.235**         | CA, Pasadena (JPL) | 341206N1181027W | 453 | NASA |
+| **7.190 - 7.235**         | HI, South Point | 190050N1553947W | 1071 | NASA |
+| **7.190 - 7.235**         | HI, South Point | 190051N1553948W | 1101 | NASA |
+| **7.190 - 7.235**         | KY, Morehead | 381131N0832620W | 498 | NASA |
+| **7.211 - 7.222**         | WV, Fairmont (60W) | 392601N801136W | 176 | Commerce |
+| **7.211 - 7.222**         | WV, Fairmont (75W) | 392601N801136W | 176 | Commerce |
+| **7.211 - 7.222**         | WV, Fairmont (89.5W) | 392601N801136W | 176 | Commerce |
+| **7.211 - 7.222**         | WV, Fairmont (105W) | 392601N801136W | 176 | Commerce |
+| **7.211 - 7.222**         | WV, Fairmont (137W) | 392601N801136W | 176 | Commerce |
+| **7.211 - 7.222**         | VA, Wallops Island (60W) | 375645N752744W | 247 | Commerce |
+| **7.211 - 7.222**         | VA, Wallops Island (75W) | 375645N752744W | 239 | Commerce |
+| **7.211 - 7.222**         | VA, Wallops Island (89.5W) | 375645N752744W | 239 | Commerce |
+| **7.211 - 7.222**         | VA, Wallops Island (105W) (60W) | 375645N752744W | 246 | Commerce |
+| **7.211 - 7.222**         | VA, Wallops Island (137W) | 375645N752744W | 263 | Commerce |
+| **7.9 - 8.4**             | AK, Clear AFS | 641728N1491137W | 360 | Air Force |
+| **7.9 - 8.4**             | CO, Schriever (DSCS 3 W-ATL)) | 384754N1043128W | 822 | Air Force |
+| **7.9 - 8.4**             | GA, Duluth | 335743N0840547W | 306 | Air Force |
+| **7.9 - 8.4**             | HI, Kunia | 212847N1580316W | 1372 | Army |
+| **7.9 - 8.4**             | IL, Scott AFB | 383207N0895106W | 369 | Air Force |
+| **7.9 - 8.4**             | MA, Hanscom AFB | 422729N0715584W | 870 | Air Force |
+| **7.9 - 8.4**             | MA, Hanscom AFB | 422729N0711627W | 600 | Air Force |
+| **7.9 - 8.4**             | MD, Andrews AFB | 384850N0765320W | 150 | Air Force |
+| **7.9 - 8.4**             | MD Blossom Point | 384301N0770859W | 280 | Navy |
+| **7.9 - 8.4**             | NC, Rosman | 351207N0825220W | 153 | Army |
+| **7.9 - 8.4**             | NM, Kirtland AFB | 350300N1062400W | 228 | Air Force |
+| **7.9 - 7.975, 8.025 - 8.4** | AK, Eareckson AFB | 624342N1740539E | 250 | Air Force |
+| **7.9 - 7.975, 8.025 - 8.4** | AK, Elmendorf | 611513N1494730W | 200 | Air Force |
+| **7.9 - 7.975, 8.025 - 8.4** | CA, Camp Roberts | 354403N1204513W | 225 | Army |
+| **7.9 - 7.975, 8.025 - 8.4** | CA, Onizuka (Sunnyvale) AFS | 372423N1220133W | 175 | Air Force |
+| **7.9 - 7.975, 8.025 - 8.4** | GA, Fort Gordon | 332520N0821058W | 200 | Army |
+| **7.9 - 7.975, 8.025 - 8.4** | Guam, Finegayan | 133555N1445050E | 300 | Navy |
+| **7.9 - 7.975, 8.025 - 8.4** | HI, Wahiawa | 212529N1580546W | 225 | Navy |
+| **7.9 - 7.975, 8.025 - 8.4** | MD, Brandywine | 384040N0765042W | 349 | Air Force |
+| **7.9 - 7.975, 8.025 - 8.4** | MD, Fort Detrick | 392636N0772453W | 249 | Army |
+| **7.9 - 7.975, 8.025 - 8.4** | NE, Offutt AFB | 410809N0955454W | 110 | Air Force |
+| **7.9 - 7.975, 8.025 - 8.4** | NH, Manchester | 425600N0713800W | 200 | Air Force |
+| **7.9 - 7.975, 8.025 - 8.4** | VA, Northwest | 363329N0761503W | 475 | Navy |
+| **7.9 - 7.975, 8.025 - 8.4** | CA, Camp Parks | 374358N1215241W | 1015 | Air Force |
+| **7.9 - 7.975, 8.025 - 8.4** | CA, Camp Roberts | 354403N1204513W | 1013 | Army |
+| **7.9 - 7.975, 8.025 - 8.4** | CO, Buckley ANGB | 394255N1044629W | 481 | Air Force |
+| **7.9 - 7.975, 8.025 - 8.4** | GA, Fort Gordon | 332520N0821058W | 1004 | Army |
+| **7.9 - 7.975, 8.025 - 8.4** | MA, Cape Cod AFS | 414511N0703218W | 1009 | Air Force |
+| **7.9 - 7.975, 8.025 - 8.4** | MD, Fort Detrick | 392636N0772453W | 1030 | Army |
+| **7.9 - 7.975, 8.025 - 8.4** | NJ, Fort Monmouth | 401901N0740206W | 1016 | Army |
+| **7.9 - 7.975, 8.025 - 8.4** | PR, Cabre de Tierra | 181300N0653700W | 350 | Navy |
+| **7.9 - 7.975, 8.025 - 8.4** | TX, Lackland AFB | 292230N0983730W | 1139 | Air Force |
+| **7.9 - 7.975, 8.025 - 8.4** | VA, Northwest | 363336N0761503W | 972 | Navy |
+| **14.6 - 15.225**         | MD, Blossom Point (12W) | 382544N0770502W | 230 | NASA |
+| **14.6 - 15.225**         | MD, Blossom Point (41W) | 382544N0770502W | 152 | NASA |
+| **14.6 - 15.225**         | MD, Blossom Point (46W) | 382544N0770502W | 101 | NASA |
+| **14.6 - 15.225**         | MD, Blossom Point (49W) | 382544N0770502W | 101 | NASA |
+| **14.6 - 15.225**         | MD, Blossom Point (62W) | 382544N0770502W | 101 | NASA |
