@@ -57,3 +57,51 @@
 | **8.025 - 8.4**          | AK, North Pole                      | 644818N1473000W           | 468                                    | NASA       |
 | **8.025 - 8.4**          | AK, North Pole West (AS4)           | 644737N1473218W           | 469                                    | NASA       |
 | **8.025 - 8.4**          | AK, Poker Flat                      | 650700N1472735W           | 375                                    | NASA       |
+| Frequency | Location                          | Coordinates        | Altitude (m) | Agency     |
+|-----------|-----------------------------------|-------------------|--------------|------------|
+| **8.025 - 8.4** | AK, Fairbanks (U of AK)           | 645137N1475050W   | 385          | NASA       |
+| **8.025 - 8.4** | AK, Gilmore Creek                | 645826N1473007W   | 1375         | Commerce   |
+| **8.025 - 8.4** | AL, Huntsville                   | 344039N863645W    | 375          | Air Force  |
+| **8.025 - 8.4** | CA, La Jolla                     | 325211N1171507W   | 945          | NASA       |
+| **8.025 - 8.4** | CA, Long Beach (KSAT)            | 334924N1180847W   | 784          | Air Force  |
+| **8.025 - 8.4** | CA, Poway                        | 325618N1170242W   | 741          | NASA       |
+| **8.025 - 8.4** | CA, San Diego                    | 325013N1170940W   | 1144         | Air Force  |
+| **8.025 - 8.4** | FL, St. Petersburg               | 274536N0823755W   | 954          | NASA       |
+| **8.025 - 8.4** | HI, Honolulu                     | 211754N1574859W   | 969          | NASA       |
+| **8.025 - 8.4** | HI, Kauai                        | 215809N1592351W   | 913          | NASA       |
+| **8.025 - 8.4** | HI, Nelha                        | 190111N1554532W   | 875          | NASA       |
+| **8.025 - 8.4** | HI, South Point                  | 190050N1553947W   | 984          | NASA       |
+| **8.025 - 8.4** | MD, Greenbelt                    | 385957N0765118W   | 900          | NASA       |
+| **8.025 - 8.4** | PA, Horsham                      | 401210N0751028W   | 725          | NASA       |
+| **8.025 - 8.4** | SC, Columbia                     | 345443N804820W    | 472          | NASA       |
+| **8.025 - 8.4** | SD, Sioux Falls                  | 434410N0963721W   | 360          | NASA       |
+| **8.025 - 8.4** | VA, Wallops Island               | 375528N0752835W   | 4000         | NASA       |
+| **8.025 - 8.4** | VA, Wallops Island (WG5 Antenna) | 375535N752832W    | 1017         | NASA       |
+| **8.025 - 8.4** | WI, Madison                      | 430415N0892424W   | 463          | NASA       |
+| **8.16 - 8.28** | WV, Fairmont (60W)               | 392601N801136W    | 330          | Commerce   |
+| **8.16 - 8.28** | WV, Fairmont (75W)               | 392601N801136W    | 330          | Commerce   |
+| **8.16 - 8.28** | WV, Fairmont (89.5W)             | 392601N801136W    | 330          | Commerce   |
+| **8.16 - 8.28** | WV, Fairmont (105W)              | 392601N801136W    | 330          | Commerce   |
+| **8.16 - 8.28** | WV, Fairmont (137W)              | 392601N801136W    | 330          | Commerce   |
+| **8.16 - 8.28** | VA, Wallops Island (60W)         | 375645N752744W    | 582          | Commerce   |
+| **8.16 - 8.28** | VA, Wallops Island (75W)         | 375645N752744W    | 575          | Commerce   |
+| **8.16 - 8.28** | VA, Wallops Island (89.5W)       | 375645N752744W    | 575          | Commerce   |
+| **8.16 - 8.28** | VA, Wallops Island (105W)        | 375645N752744W    | 575          | Commerce   |
+| **8.16 - 8.28** | VA, Wallops Island (137W)        | 375645N752744W    | 575          | Commerce   |
+| **8.4 - 8.45**  | HI, South Point                  | 190050N1553947W   | 1200         | NASA       |
+| **8.4 - 8.45**  | VA, Wallops Island (WG5 Antenna) | 375535N752832W    | 1200         | NASA       |
+| **8.4 - 8.45**  | AK, Fairbanks                    | 645131N1475127W   | 538          | NASA       |
+| **8.4 - 8.45**  | AK, Fairbanks (ASF-10)           | 645135N1475050W   | 1875         | NASA       |
+| **8.4 - 8.45**  | AK, Fairbanks (ASF-11)           | 645131N1475118W   | 1875         | NASA       |
+| **8.4 - 8.45**  | AK, North Pole West (AS4)        | 644737N1473218W   | 517          | NASA       |
+| **8.4 - 8.45**  | CA, Goldstone (DSS-13)           | 351450N1164738W   | 975          | NASA       |
+| **8.4 - 8.45**  | CA, Goldstone (DSS-26)           | 352008N1165223W   | 1155         | NASA       |
+| **8.4 - 8.45**  | CA, Goldstone (DSS-26)           | 352008N1165223W   | 464          | NASA       |
+| **8.4 - 8.45**  | HI, South Point                  | 190050N1553947W   | 1182         | NASA       |
+| **8.4 - 8.45**  | HI, South Point                  | 190051N1553948W   | 1175         | NASA       |
+| **8.4 - 8.45**  | KY, Morehead                     | 381131N0832620W   | 500          | NASA       |
+| **8.4 - 8.45**  | VA, Wallops Island               | 375528N0752835W   | 400          | NASA       |
+| **8.4 - 8.45**  | VA, Wallops Island (WG5 Antenna) | 375535N752832W    | 1200         | NASA       |
+| **8.475**       | AK, North Pole                   | 644816N1473001W   | 514          | Air Force  |
+| **8.475**       | HI, Naalehu                      | 190050N1553947W   | 1200         | Air Force  |
+| **8.475**       | HI, Naalehu                      | 190049N1553946W   | 1200         | Air Force  |
