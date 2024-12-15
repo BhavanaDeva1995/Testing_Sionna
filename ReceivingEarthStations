@@ -1,0 +1,59 @@
+| **Frequency Band (GHz)** | **Location**                        | **Coordinates**          | **Nominal Coordination Distance (KM)** | **Agency** |
+|--------------------------|-------------------------------------|--------------------------|----------------------------------------|------------|
+| **7.25 - 7.3**           | NC, Fort Bragg                      | 351000N0790100W           | 823                                    | Army       |
+| **7.25 - 7.3**           | VA, Fort Belvoir                    | 384337N0770853W           | 1042                                   | Army       |
+| **7.25 - 7.75**          | AK, Ft. Greely                      | 635848N1454312W           | 376                                    | Army       |
+| **7.25 - 7.75**          | CA, Vandenberg AFB (52.5W)          | 344405N1203251W           | 460                                    | Air Force  |
+| **7.25 - 7.75**          | CA, Vandenberg AFB (135W)           | 344405N1203251W           | 460                                    | Air Force  |
+| **7.25 - 7.75**          | CA, Vandenberg AFB (52.5W)          | 344406N1203253W           | 460                                    | Air Force  |
+| **7.25 - 7.75**          | CA, Vandenberg AFB (135W)           | 344406N1203253W           | 460                                    | Air Force  |
+| **7.25 - 7.75**          | CO, Colorado Springs                | 384834N1044036W           | 375                                    | Air Force  |
+| **7.25 - 7.75**          | CO, Schriever (DSCS 3 E-PAC)        | 384754N1043128W           | 1344                                   | Air Force  |
+| **7.25 - 7.75**          | CO, Schriever (DSCS 3 W-ATL)        | 384754N1043128W           | 453                                    | Air Force  |
+| **7.25 - 7.75**          | GA, Duluth                          | 335743N0840547W           | 345                                    | Air Force  |
+| **7.25 - 7.75**          | HI, Kunia                           | 212847N1580316W           | 1392                                   | Army       |
+| **7.25 - 7.75**          | IL, Scott AFB                       | 383207N0895106W           | 438                                    | Air Force  |
+| **7.25 - 7.75**          | MA, Hanscom AFB                     | 422729N711627W            | 600                                    | Air Force  |
+| **7.25 - 7.75**          | MA, Hanscom AFB                     | 071W155842N2729           | 870                                    | Air Force  |
+| **7.25 - 7.75**          | MD, Andrews AFB                     | 384850N0765320W           | 830                                    | Air Force  |
+| **7.25 - 7.75**          | MD, Blossom Point                   | 384301N0770859W           | 820                                    | Navy       |
+| **7.25 - 7.75**          | NC, Rosman                          | 350245N0825233W           | 541                                    | Army       |
+| **7.25 - 7.75**          | NM, Kirtland AFB                    | 350300N1062400W           | 400                                    | Air Force  |
+| **7.25 - 7.75**          | AK, Clear AFS                       | 641728N1491137W           | 373                                    | Air Force  |
+| **7.3 - 7.75**           | AK, Clear AFS                       | 642039N1491113W           | 465                                    | Air Force  |
+| **7.3 - 7.75**           | AK, Eareckson AFB                   | 524342N1740539E           | 500                                    | Air Force  |
+| **7.3 - 7.75**           | AK, Elmendorf                       | 611513N1494730W           | 575                                    | Air Force  |
+| **7.3 - 7.75**           | CA, Beale AFB                       | 390815N1212647W           | 1042                                   | Air Force  |
+| **7.3 - 7.75**           | CA, Camp Parks                      | 374358N1215241W           | 1054                                   | Air Force  |
+| **7.3 - 7.75**           | CA, Camp Roberts                    | 354403N1204513W           | 1025                                   | Army       |
+| **7.3 - 7.75**           | CA, Camp Roberts                    | 354403N1204513W           | 400                                    | Army       |
+| **7.3 - 7.75**           | CA, Onizuka (Sunnyvale) AFS         | 372423N1220133W           | 375                                    | Air Force  |
+| **7.3 - 7.75**           | CO, Buckley ANGB                    | 394255N1044629W           | 483                                    | Air Force  |
+| **7.3 - 7.75**           | CO, Peterson AFB                    | 384831N1044235W           | 454                                    | Air Force  |
+| **7.3 - 7.75**           | GA, Fort Gordon                     | 332520N0821058W           | 1051                                   | Army       |
+| **7.3 - 7.75**           | GA, Fort Gordon                     | 332520N0821058W           | 650                                    | Army       |
+| **7.3 - 7.75**           | GA, Robins AFB                      | 323819N0833631W           | 620                                    | Air Force  |
+| **7.3 - 7.75**           | Guam, Finegayan                     | 133455N1445050E           | 575                                    | Navy       |
+| **7.3 - 7.75**           | HI, Hickam AFB                      | 211939N1575652W           | 1357                                   | Air Force  |
+| **7.3 - 7.75**           | HI, Hilo                            | 194300N1550328W           | 1500                                   | Air Force  |
+| **7.3 - 7.75**           | HI, Wahiawa                         | 212529N1580546W           | 775                                    | Navy       |
+| **7.3 - 7.75**           | MA, Cape Cod AFS                    | 414511N0703218W           | 1046                                   | Air Force  |
+| **7.3 - 7.75**           | MD, Brandywine                      | 384040N0765042W           | 169                                    | Air Force  |
+| **7.3 - 7.75**           | MD, Fort Detrick                    | 392636N0772453W           | 1045                                   | Army       |
+| **7.3 - 7.75**           | MD, Fort Detrick                    | 392636N0772453W           | 700                                    | Army       |
+| **7.3 - 7.75**           | MD, Fort Meade                      | 390614N0764526W           | 1102                                   | Army       |
+| **7.3 - 7.75**           | MD, Fort Ritchie                    | 394225N0772915W           | 490                                    | Army       |
+| **7.3 - 7.75**           | ND, Cavalier AFS                    | 484331N0975356W           | 403                                    | Air Force  |
+| **7.3 - 7.75**           | NE, Offutt AFB                      | 410809N0955454W           | 475                                    | Air Force  |
+| **7.3 - 7.75**           | NH, Manchester                      | 425600N0713800W           | 550                                    | Air Force  |
+| **7.3 - 7.75**           | PR, Cabre de Tierra                 | 1813XXN06537W             | 750                                    | Navy       |
+| **7.3 - 7.75**           | TX, Eldorado AFS                    | 311030N1003308W           | 470                                    | Air Force  |
+| **7.3 - 7.75**           | TX, Lackland AFB                    | 292230N0983730W           | 1117                                   | Air Force  |
+| **7.3 - 7.75**           | VA, Northwest                       | 364903N0763216W           | 650                                    | Navy       |
+| **7.3 - 7.75**           | VA, Northwest                       | 363336N0761503W           | 1051                                   | Navy       |
+| **7.9 - 8.4**            | MA, Hanscom AFB                     | 071W155842N2729           | 870                                    | Air Force  |
+| **8.025 - 8.175**        | AK, Fairbanks                       | 645826N1473021W           | 375                                    | Commerce   |
+| **8.025 - 8.4**          | AK, Anchorage                       | 610924N1495907W           | 821                                    | NASA       |
+| **8.025 - 8.4**          | AK, North Pole                      | 644818N1473000W           | 468                                    | NASA       |
+| **8.025 - 8.4**          | AK, North Pole West (AS4)           | 644737N1473218W           | 469                                    | NASA       |
+| **8.025 - 8.4**          | AK, Poker Flat                      | 650700N1472735W           | 375                                    | NASA       |
